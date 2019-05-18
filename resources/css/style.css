@@ -29,19 +29,31 @@ a {
   color: white;
 }
 
-#index {
+#home {
   font-family: helvetica;
   font-size: 18px;
   color: white;
 }
 
-#process {
+#about {
   font-family: helvetica;
   font-size: 32px;
   font-weight: bold;
 }
 
-#about-title {
+#work {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#team {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#contact {
   font-family: helvetica;
   font-size: 23px;
   font-weight: bold;
